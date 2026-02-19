@@ -1,0 +1,27 @@
+{
+  "name": "logscan",
+  "version": "1.0.0",
+  "description": "Turn noise into signal: summarize logs and README files.",
+  "main": "index.js",
+  "bin": {
+    "logscan": "bin/logscan.js"
+  },
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaryahMink/logscan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MaryahMink/logscan/issues"
+  },
+  "homepage": "https://github.com/MaryahMink/logscan#readme",
+  "dependencies": {
+    "commander": "^14.0.3"
+  }
+}

@@ -1,0 +1,4 @@
+2026-02-11 10:00:00 INFO Server started
+2026-02-11 10:00:01 WARN Rate limit approaching
+2026-02-11 10:00:02 ERROR User 4932 failed login
+2026-02-11 10:00:03 ERROR User 8888 failed login
